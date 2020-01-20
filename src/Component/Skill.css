@@ -1,0 +1,39 @@
+.aku {
+    width: 300px;
+    height: auto;
+}
+
+.rot {
+    background: url(../Image/latar.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 320px;
+    height: 320px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.col4 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.colskill {
+    text-align: left;
+    align-self: center;
+}
+
+.prog {
+    margin-bottom: 16px;
+    height: 1.5rem;
+    text-align: left;
+}
+
+@media (min-width:768px) {
+    .prog {
+        height: 2rem;
+    }
+}

@@ -1,38 +1,56 @@
-.App {
+p, .btn {
+  font-size: min(max(14px, 4vw),16px);
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+
+h1 {
+  font-size: min(max(32px, 4vw),48px);
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: min(max(26px, 4vw),36px);
+  margin-bottom: 10%;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 700;
+}
+
+h3 {
+  font-size: min(max(22px, 4vw),28px);
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 400;
+}
+
+h4 {
+  font-size: min(max(18px, 4vw),20px);
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 300;
+}
+
+.ijo {
+  color: #28a745;
+  margin-top: 10%;
+  margin-bottom: 0px;
+}
+
+.container {
   text-align: center;
+  margin-top: 30px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.container::before  {
+  display: block;
+  content: " ";
+  margin-top: -55px;
+  height: 55px;
+  visibility: hidden;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.progress-bar {
+  text-align: left;
+  color: black;
+  font-weight: bolder;
+  padding-left: 15px;
 }

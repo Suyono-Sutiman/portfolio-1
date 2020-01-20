@@ -1,0 +1,39 @@
+.hexagon {
+    background: #28a745;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    border-radius: 50%;
+}
+
+.ic2 {
+    width: 70px;
+    height: 70px;
+}
+
+.ic1 {
+    font-size: 60px;
+}
+
+@media (min-width:768px) {
+    .hexagon {
+        width: 120px;
+        height: 120px;
+    }
+    .ic1 {
+        font-size: 80px;
+    }
+    .ic2 {
+        width: 120px;
+        height: 120px;
+    }
+}
+
+.col-6 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}

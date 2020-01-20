@@ -1,0 +1,50 @@
+.car-cap {
+    border-top-left-radius: 25%;
+    border-top-right-radius: 25%;
+    padding-top: 0px;
+    color: black;
+}
+
+@media (min-width:768px) {
+    .car {
+        display: none;
+    }
+}
+
+.gambar {
+    width: 100%;
+    height: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.gambar:hover {
+    opacity: 0.5;
+}
+
+.gambar1 {
+    padding: 5px;
+}
+
+@media (max-width:767px) {
+    .row-pro {
+        display: none;
+    }
+}
+
+.ket {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.ket:hover {
+    opacity: 1;
+}
