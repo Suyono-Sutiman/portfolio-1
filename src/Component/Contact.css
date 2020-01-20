@@ -1,0 +1,30 @@
+.contact {
+    
+    background: #343a40;
+    border-style: solid;
+    border-width: 40px 160px 0 160px;
+    border-color: #ffffff transparent transparent transparent;
+    padding-top: 5%;
+}
+
+#contact {
+    background: #343a40;
+    text-align: center;
+}
+
+.h-con {
+    margin: auto;
+}
+
+.fom {
+    padding: 2% 15%;
+}
+
+@media (min-width:768px) {
+    .contact {
+        border-width: 80px 360px 0 360px;
+    }
+    .fom {
+        padding: 2% 25%;
+    }
+}

@@ -48,3 +48,7 @@
 .ket:hover {
     opacity: 1;
 }
+
+#project {
+    padding-bottom: 5%;
+}
