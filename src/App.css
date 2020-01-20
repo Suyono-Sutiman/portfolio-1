@@ -42,8 +42,8 @@ h4 {
 .container::before  {
   display: block;
   content: " ";
-  margin-top: -55px;
-  height: 55px;
+  margin-top: -240px;
+  height: 240px;
   visibility: hidden;
 }
 
@@ -58,4 +58,19 @@ h4 {
   h2 {
     margin-bottom: 5%;
   }
+  .container::before  {
+    display: block;
+    content: " ";
+    margin-top: -71px;
+    height: 71px;
+    visibility: hidden;
+  }
+}
+
+#about1::before  {
+  display: block;
+  content: " ";
+  margin-top: -71px;
+  height: 71px;
+  visibility: hidden;
 }

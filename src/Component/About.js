@@ -8,7 +8,7 @@ import Skill from './Skill';
 function About () {
     return (
         <Container id='about' >
-            <h2><IoIosArrowBack/>About<IoIosArrowForward/></h2>
+            <h2 id='about1' ><IoIosArrowBack/>About<IoIosArrowForward/></h2>
             <Row>
                 <Col xs={6} md={3} >
                     <div className='hexagon'>

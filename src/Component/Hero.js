@@ -10,7 +10,7 @@ function Hero () {
             <p className='slide-in-right' >Front-End . Web-Designer</p>
             <div className='shake-vertical'>
             <div className='bounce-top'>
-                <Button variant="outline-success" className='btn-1' href='#about' >
+                <Button variant="outline-success" className='btn-1' href='#about1' >
                 My Work <br/>
                 <FaArrowDown/>
                 </Button>
