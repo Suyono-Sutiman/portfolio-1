@@ -1,16 +1,3 @@
-.car-cap {
-    border-top-left-radius: 25%;
-    border-top-right-radius: 25%;
-    padding-top: 0px;
-    color: black;
-}
-
-@media (min-width:768px) {
-    .car {
-        display: none;
-    }
-}
-
 .gambar {
     width: 100%;
     height: auto;
@@ -25,11 +12,6 @@
     padding: 5px;
 }
 
-@media (max-width:767px) {
-    .row-pro {
-        display: none;
-    }
-}
 
 .ket {
     position: absolute;

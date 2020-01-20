@@ -7,7 +7,69 @@
     align-items: center;
     margin: 0px;
     border-radius: 50%;
+    animation: heartbeat 1.5s ease-in-out infinite both;
 }
+
+.hexagon1 {
+    background: #28a745;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    border-radius: 50%;
+    animation: heartbeat 1.5s ease-in-out 0.4s infinite both;
+}
+
+.hexagon2 {
+    background: #28a745;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    border-radius: 50%;
+    animation: heartbeat 1.5s ease-in-out 1.2s infinite both;
+}
+
+.hexagon3 {
+    background: #28a745;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    border-radius: 50%;
+    animation: heartbeat 1.5s ease-in-out 0.9s infinite both;
+}
+
+@keyframes heartbeat {
+    from {
+      transform: scale(1);
+      transform-origin: center center;
+      animation-timing-function: ease-out;
+    }
+    10% {
+      transform: scale(0.91);
+      animation-timing-function: ease-in;
+    }
+    17% {
+      transform: scale(0.98);
+      animation-timing-function: ease-out;
+    }
+    33% {
+      transform: scale(0.87);
+      animation-timing-function: ease-in;
+    }
+    45% {
+      transform: scale(1);
+      animation-timing-function: ease-out;
+    }
+}
+  
 
 .ic2 {
     width: 70px;
@@ -27,6 +89,18 @@
         font-size: 80px;
     }
     .ic2 {
+        width: 120px;
+        height: 120px;
+    }
+    .hexagon1 {
+        width: 120px;
+        height: 120px;
+    }
+    .hexagon2 {
+        width: 120px;
+        height: 120px;
+    }
+    .hexagon3 {
         width: 120px;
         height: 120px;
     }

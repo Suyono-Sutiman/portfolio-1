@@ -20,7 +20,7 @@ function About () {
                     </p>
                 </Col>
                 <Col xs={6} md={3} >
-                    <div className='hexagon'>
+                    <div className='hexagon1'>
                         <IoIosSpeedometer className='ic1' />
                     </div>
                     <h4>Fast</h4>
@@ -29,7 +29,7 @@ function About () {
                     </p>
                 </Col>
                 <Col xs={6} md={3} >
-                    <div className='hexagon'>
+                    <div className='hexagon2'>
                         <IoIosRocket className='ic1' />
                     </div>
                     <h4>Dynamic</h4>
@@ -38,7 +38,7 @@ function About () {
                     </p>
                 </Col>
                 <Col xs={6} md={3} >
-                    <div className='hexagon'>
+                    <div className='hexagon3'>
                         <IoMdBulb className='ic1' />
                     </div>
                     <h4>Intuitive</h4>
