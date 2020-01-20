@@ -1,27 +1,30 @@
 {
   "files": {
-    "main.css": "/portfolio-1/static/css/main.1e058204.chunk.css",
-    "main.js": "/portfolio-1/static/js/main.18406c94.chunk.js",
-    "main.js.map": "/portfolio-1/static/js/main.18406c94.chunk.js.map",
+    "main.css": "/portfolio-1/static/css/main.4d2c7a25.chunk.css",
+    "main.js": "/portfolio-1/static/js/main.7d3d185e.chunk.js",
+    "main.js.map": "/portfolio-1/static/js/main.7d3d185e.chunk.js.map",
     "runtime-main.js": "/portfolio-1/static/js/runtime-main.4ae7627d.js",
     "runtime-main.js.map": "/portfolio-1/static/js/runtime-main.4ae7627d.js.map",
     "static/css/2.47e06e2e.chunk.css": "/portfolio-1/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.88b23095.chunk.js": "/portfolio-1/static/js/2.88b23095.chunk.js",
-    "static/js/2.88b23095.chunk.js.map": "/portfolio-1/static/js/2.88b23095.chunk.js.map",
+    "static/js/2.7b3704b1.chunk.js": "/portfolio-1/static/js/2.7b3704b1.chunk.js",
+    "static/js/2.7b3704b1.chunk.js.map": "/portfolio-1/static/js/2.7b3704b1.chunk.js.map",
     "index.html": "/portfolio-1/index.html",
-    "precache-manifest.0039d952a74afa954ae7cd3077f73245.js": "/portfolio-1/precache-manifest.0039d952a74afa954ae7cd3077f73245.js",
+    "precache-manifest.2a728301842fab4671dba4ca5e3c7e00.js": "/portfolio-1/precache-manifest.2a728301842fab4671dba4ca5e3c7e00.js",
     "service-worker.js": "/portfolio-1/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/portfolio-1/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.1e058204.chunk.css.map": "/portfolio-1/static/css/main.1e058204.chunk.css.map",
-    "static/js/2.88b23095.chunk.js.LICENSE": "/portfolio-1/static/js/2.88b23095.chunk.js.LICENSE",
-    "static/media/Hero.css": "/portfolio-1/static/media/bg.687df9e2.jpg",
-    "static/media/logo.svg": "/portfolio-1/static/media/logo.5d5d9eef.svg"
+    "static/css/main.4d2c7a25.chunk.css.map": "/portfolio-1/static/css/main.4d2c7a25.chunk.css.map",
+    "static/js/2.7b3704b1.chunk.js.LICENSE": "/portfolio-1/static/js/2.7b3704b1.chunk.js.LICENSE",
+    "static/media/Hero.css": "/portfolio-1/static/media/bg.1ed2b747.jpg",
+    "static/media/dua.png": "/portfolio-1/static/media/dua.584b2ed8.png",
+    "static/media/empat.png": "/portfolio-1/static/media/empat.ac5139b9.png",
+    "static/media/Skill.css": "/portfolio-1/static/media/latar.79d50996.png",
+    "static/media/tiga.png": "/portfolio-1/static/media/tiga.bbb79ec4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4ae7627d.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.88b23095.chunk.js",
-    "static/css/main.1e058204.chunk.css",
-    "static/js/main.18406c94.chunk.js"
+    "static/js/2.7b3704b1.chunk.js",
+    "static/css/main.4d2c7a25.chunk.css",
+    "static/js/main.7d3d185e.chunk.js"
   ]
 }
