@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio-1/static/css/main.4d2c7a25.chunk.css",
-    "main.js": "/portfolio-1/static/js/main.7d3d185e.chunk.js",
-    "main.js.map": "/portfolio-1/static/js/main.7d3d185e.chunk.js.map",
+    "main.css": "/portfolio-1/static/css/main.162134e4.chunk.css",
+    "main.js": "/portfolio-1/static/js/main.7c0a119c.chunk.js",
+    "main.js.map": "/portfolio-1/static/js/main.7c0a119c.chunk.js.map",
     "runtime-main.js": "/portfolio-1/static/js/runtime-main.4ae7627d.js",
     "runtime-main.js.map": "/portfolio-1/static/js/runtime-main.4ae7627d.js.map",
     "static/css/2.47e06e2e.chunk.css": "/portfolio-1/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.7b3704b1.chunk.js": "/portfolio-1/static/js/2.7b3704b1.chunk.js",
-    "static/js/2.7b3704b1.chunk.js.map": "/portfolio-1/static/js/2.7b3704b1.chunk.js.map",
+    "static/js/2.08fb9285.chunk.js": "/portfolio-1/static/js/2.08fb9285.chunk.js",
+    "static/js/2.08fb9285.chunk.js.map": "/portfolio-1/static/js/2.08fb9285.chunk.js.map",
     "index.html": "/portfolio-1/index.html",
-    "precache-manifest.2a728301842fab4671dba4ca5e3c7e00.js": "/portfolio-1/precache-manifest.2a728301842fab4671dba4ca5e3c7e00.js",
+    "precache-manifest.08748ea01ac6d28d6f7dd9dc2691db55.js": "/portfolio-1/precache-manifest.08748ea01ac6d28d6f7dd9dc2691db55.js",
     "service-worker.js": "/portfolio-1/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/portfolio-1/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.4d2c7a25.chunk.css.map": "/portfolio-1/static/css/main.4d2c7a25.chunk.css.map",
-    "static/js/2.7b3704b1.chunk.js.LICENSE": "/portfolio-1/static/js/2.7b3704b1.chunk.js.LICENSE",
+    "static/css/main.162134e4.chunk.css.map": "/portfolio-1/static/css/main.162134e4.chunk.css.map",
+    "static/js/2.08fb9285.chunk.js.LICENSE": "/portfolio-1/static/js/2.08fb9285.chunk.js.LICENSE",
     "static/media/Hero.css": "/portfolio-1/static/media/bg.1ed2b747.jpg",
     "static/media/dua.png": "/portfolio-1/static/media/dua.584b2ed8.png",
     "static/media/empat.png": "/portfolio-1/static/media/empat.ac5139b9.png",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.4ae7627d.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.7b3704b1.chunk.js",
-    "static/css/main.4d2c7a25.chunk.css",
-    "static/js/main.7d3d185e.chunk.js"
+    "static/js/2.08fb9285.chunk.js",
+    "static/css/main.162134e4.chunk.css",
+    "static/js/main.7c0a119c.chunk.js"
   ]
 }
