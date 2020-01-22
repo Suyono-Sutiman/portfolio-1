@@ -12,15 +12,16 @@ function Contact () {
             <p className='ijo'>
             Have a question or want to work together?
             </p>
-            <Form className='fom'>
+            <Form className='fom' action="mailto:yonoraphael@gmail.com?Subject=subject&Body=body"
+             method="GET" enctype="text/plain">
             <Form.Group>
-                <Form.Control type="text" placeholder="Name" />
+                <Form.Control type="text" name='subject' placeholder="Name" />
             </Form.Group>
             <Form.Group> 
                 <Form.Control type="email" placeholder="Enter email" />
             </Form.Group>
             <Form.Group>
-                <Form.Control as="textarea" rows="3" placeholder="Your message..." />
+                <Form.Control as="textarea" rows="3" name='body' placeholder="Your message..." />
             </Form.Group>
             <Button variant="success" type="submit">
                 Submit
