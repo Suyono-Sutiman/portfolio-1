@@ -28,10 +28,6 @@
     }
 }
 
-.wa {
+.wa, .mail, .phone {
     color: #28a745;
-}
-
-.mail {
-    color: whitesmoke;
 }
