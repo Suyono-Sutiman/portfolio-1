@@ -9,10 +9,10 @@ function Footer () {
             <a href='#home'><AiFillCaretUp className='up'/></a>
             </div>
             <div className='sos'>
-                <a href='#home' className='sos-ico' ><AiOutlineFacebook/></a>
-                <a href='#home' className='sos-ico'><AiOutlineTwitter/></a>
-                <a href='#home' className='sos-ico'><AiOutlineInstagram/></a>
-                <a href='#home' className='sos-ico'><AiOutlineGithub/></a>
+                <a href='https://www.facebook.com/synwebdev' target='blank' className='sos-ico' ><AiOutlineFacebook/></a>
+                <a href='https://twitter.com/Syn_WebDev' target='blank' className='sos-ico'><AiOutlineTwitter/></a>
+                <a href='https://www.instagram.com/syn_web_dev' target='blank' className='sos-ico'><AiOutlineInstagram/></a>
+                <a href='https://github.com/Suyono-Sutiman' target='blank' className='sos-ico'><AiOutlineGithub/></a>
             </div>
             <p className='cr' ><span className='ijo' >Suyono </span>.Copyright <AiOutlineCopyright/>2020</p>
         </div>

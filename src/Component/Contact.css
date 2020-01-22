@@ -10,21 +10,28 @@
 #contact {
     background: #343a40;
     text-align: center;
+    color: whitesmoke;
 }
 
 .h-con {
     margin: auto;
 }
 
-.fom {
-    padding: 2% 15%;
+.ico2 {
+    font-size: min(max(36px, 4vw),48px);
+    margin: 2% 4%;
 }
 
 @media (min-width:768px) {
     .contact {
         border-width: 80px 360px 0 360px;
     }
-    .fom {
-        padding: 2% 25%;
-    }
+}
+
+.wa {
+    color: #28a745;
+}
+
+.mail {
+    color: whitesmoke;
 }

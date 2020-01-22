@@ -1,6 +1,6 @@
 import React from 'react';
-import {Form, Button} from 'react-bootstrap';
-import {IoIosArrowBack, IoIosArrowForward} from 'react-icons/io';
+import {IoIosArrowBack, IoIosArrowForward, IoLogoWhatsapp, IoIosMail} from 'react-icons/io';
+import {FaPhone} from 'react-icons/fa';
 import './Contact.css'
 
 function Contact () {
@@ -12,21 +12,15 @@ function Contact () {
             <p className='ijo'>
             Have a question or want to work together?
             </p>
-            <Form className='fom' action="mailto:yonoraphael@gmail.com?Subject=subject&Body=body"
-             method="GET" enctype="text/plain">
-            <Form.Group>
-                <Form.Control type="text" name='subject' placeholder="Name" />
-            </Form.Group>
-            <Form.Group> 
-                <Form.Control type="email" placeholder="Enter email" />
-            </Form.Group>
-            <Form.Group>
-                <Form.Control as="textarea" rows="3" name='body' placeholder="Your message..." />
-            </Form.Group>
-            <Button variant="success" type="submit">
-                Submit
-            </Button>
-            </Form>
+            <a href='https://wa.me/6281219013721/?text=Name%3A%0AAddress%3A%0AI%20am%20interested%20in%20your%20work.' target='blank' className='wa'>
+            <IoLogoWhatsapp className='ico2'/>
+            </a>
+            <a href='tel:+6281219013721' className='phone'>
+            <FaPhone className='ico2'/>
+            </a>
+            <a href='mailto:yonoraphael@gmail.com?subject=Please type your name&body=I am interested in your work.' className='mail'>
+            <IoIosMail className='ico2'/>
+            </a>
         </div>
         </div>
     )
