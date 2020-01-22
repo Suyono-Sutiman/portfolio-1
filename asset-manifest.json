@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio-1/static/css/main.9afddce0.chunk.css",
-    "main.js": "/portfolio-1/static/js/main.2bf4993a.chunk.js",
-    "main.js.map": "/portfolio-1/static/js/main.2bf4993a.chunk.js.map",
+    "main.css": "/portfolio-1/static/css/main.f53396d2.chunk.css",
+    "main.js": "/portfolio-1/static/js/main.bc8a4458.chunk.js",
+    "main.js.map": "/portfolio-1/static/js/main.bc8a4458.chunk.js.map",
     "runtime-main.js": "/portfolio-1/static/js/runtime-main.4ae7627d.js",
     "runtime-main.js.map": "/portfolio-1/static/js/runtime-main.4ae7627d.js.map",
     "static/css/2.47e06e2e.chunk.css": "/portfolio-1/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.7d55181c.chunk.js": "/portfolio-1/static/js/2.7d55181c.chunk.js",
-    "static/js/2.7d55181c.chunk.js.map": "/portfolio-1/static/js/2.7d55181c.chunk.js.map",
+    "static/js/2.4ccd430f.chunk.js": "/portfolio-1/static/js/2.4ccd430f.chunk.js",
+    "static/js/2.4ccd430f.chunk.js.map": "/portfolio-1/static/js/2.4ccd430f.chunk.js.map",
     "index.html": "/portfolio-1/index.html",
-    "precache-manifest.a991ec88fa4a660daf85e44fe353e4e0.js": "/portfolio-1/precache-manifest.a991ec88fa4a660daf85e44fe353e4e0.js",
+    "precache-manifest.9224b86114bf7f51556c96c8682ffea0.js": "/portfolio-1/precache-manifest.9224b86114bf7f51556c96c8682ffea0.js",
     "service-worker.js": "/portfolio-1/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/portfolio-1/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.9afddce0.chunk.css.map": "/portfolio-1/static/css/main.9afddce0.chunk.css.map",
-    "static/js/2.7d55181c.chunk.js.LICENSE": "/portfolio-1/static/js/2.7d55181c.chunk.js.LICENSE",
+    "static/css/main.f53396d2.chunk.css.map": "/portfolio-1/static/css/main.f53396d2.chunk.css.map",
+    "static/js/2.4ccd430f.chunk.js.LICENSE": "/portfolio-1/static/js/2.4ccd430f.chunk.js.LICENSE",
     "static/media/Hero.css": "/portfolio-1/static/media/bg.1ed2b747.jpg",
     "static/media/empat.png": "/portfolio-1/static/media/empat.ac5139b9.png",
     "static/media/foodshop.png": "/portfolio-1/static/media/foodshop.da4b54dd.png",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.4ae7627d.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.7d55181c.chunk.js",
-    "static/css/main.9afddce0.chunk.css",
-    "static/js/main.2bf4993a.chunk.js"
+    "static/js/2.4ccd430f.chunk.js",
+    "static/css/main.f53396d2.chunk.css",
+    "static/js/main.bc8a4458.chunk.js"
   ]
 }
