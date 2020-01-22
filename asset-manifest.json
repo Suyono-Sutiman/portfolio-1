@@ -1,30 +1,31 @@
 {
   "files": {
-    "main.css": "/portfolio-1/static/css/main.3b6927e9.chunk.css",
-    "main.js": "/portfolio-1/static/js/main.db4d2603.chunk.js",
-    "main.js.map": "/portfolio-1/static/js/main.db4d2603.chunk.js.map",
+    "main.css": "/portfolio-1/static/css/main.9afddce0.chunk.css",
+    "main.js": "/portfolio-1/static/js/main.2bf4993a.chunk.js",
+    "main.js.map": "/portfolio-1/static/js/main.2bf4993a.chunk.js.map",
     "runtime-main.js": "/portfolio-1/static/js/runtime-main.4ae7627d.js",
     "runtime-main.js.map": "/portfolio-1/static/js/runtime-main.4ae7627d.js.map",
     "static/css/2.47e06e2e.chunk.css": "/portfolio-1/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.f0d10ad6.chunk.js": "/portfolio-1/static/js/2.f0d10ad6.chunk.js",
-    "static/js/2.f0d10ad6.chunk.js.map": "/portfolio-1/static/js/2.f0d10ad6.chunk.js.map",
+    "static/js/2.7d55181c.chunk.js": "/portfolio-1/static/js/2.7d55181c.chunk.js",
+    "static/js/2.7d55181c.chunk.js.map": "/portfolio-1/static/js/2.7d55181c.chunk.js.map",
     "index.html": "/portfolio-1/index.html",
-    "precache-manifest.eaaaa571353c1e9ab5342d8af0205a4e.js": "/portfolio-1/precache-manifest.eaaaa571353c1e9ab5342d8af0205a4e.js",
+    "precache-manifest.a991ec88fa4a660daf85e44fe353e4e0.js": "/portfolio-1/precache-manifest.a991ec88fa4a660daf85e44fe353e4e0.js",
     "service-worker.js": "/portfolio-1/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/portfolio-1/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.3b6927e9.chunk.css.map": "/portfolio-1/static/css/main.3b6927e9.chunk.css.map",
-    "static/js/2.f0d10ad6.chunk.js.LICENSE": "/portfolio-1/static/js/2.f0d10ad6.chunk.js.LICENSE",
+    "static/css/main.9afddce0.chunk.css.map": "/portfolio-1/static/css/main.9afddce0.chunk.css.map",
+    "static/js/2.7d55181c.chunk.js.LICENSE": "/portfolio-1/static/js/2.7d55181c.chunk.js.LICENSE",
     "static/media/Hero.css": "/portfolio-1/static/media/bg.1ed2b747.jpg",
-    "static/media/dua.png": "/portfolio-1/static/media/dua.584b2ed8.png",
     "static/media/empat.png": "/portfolio-1/static/media/empat.ac5139b9.png",
+    "static/media/foodshop.png": "/portfolio-1/static/media/foodshop.da4b54dd.png",
+    "static/media/landingpage.png": "/portfolio-1/static/media/landingpage.738e8772.png",
     "static/media/Skill.css": "/portfolio-1/static/media/latar.79d50996.png",
     "static/media/tiga.png": "/portfolio-1/static/media/tiga.bbb79ec4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4ae7627d.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.f0d10ad6.chunk.js",
-    "static/css/main.3b6927e9.chunk.css",
-    "static/js/main.db4d2603.chunk.js"
+    "static/js/2.7d55181c.chunk.js",
+    "static/css/main.9afddce0.chunk.css",
+    "static/js/main.2bf4993a.chunk.js"
   ]
 }
