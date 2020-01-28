@@ -1,1 +1,0 @@
-{"version":3,"sources":["Image/landingpage.png"],"names":["module","exports"],"mappings":"qGAAAA,EAAOC,QAAU,IAA0B","file":"static/js/13.25a8f29e.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/landingpage.12b4c5ae.png\";"],"sourceRoot":""}
