@@ -1,31 +1,31 @@
 {
   "files": {
     "main.css": "/portfolio-1/static/css/main.f53396d2.chunk.css",
-    "main.js": "/portfolio-1/static/js/main.bc8a4458.chunk.js",
-    "main.js.map": "/portfolio-1/static/js/main.bc8a4458.chunk.js.map",
+    "main.js": "/portfolio-1/static/js/main.190582cf.chunk.js",
+    "main.js.map": "/portfolio-1/static/js/main.190582cf.chunk.js.map",
     "runtime-main.js": "/portfolio-1/static/js/runtime-main.4ae7627d.js",
     "runtime-main.js.map": "/portfolio-1/static/js/runtime-main.4ae7627d.js.map",
     "static/css/2.47e06e2e.chunk.css": "/portfolio-1/static/css/2.47e06e2e.chunk.css",
     "static/js/2.4ccd430f.chunk.js": "/portfolio-1/static/js/2.4ccd430f.chunk.js",
     "static/js/2.4ccd430f.chunk.js.map": "/portfolio-1/static/js/2.4ccd430f.chunk.js.map",
     "index.html": "/portfolio-1/index.html",
-    "precache-manifest.9224b86114bf7f51556c96c8682ffea0.js": "/portfolio-1/precache-manifest.9224b86114bf7f51556c96c8682ffea0.js",
+    "precache-manifest.a0123ae5e1be106163f75e89d0363a0a.js": "/portfolio-1/precache-manifest.a0123ae5e1be106163f75e89d0363a0a.js",
     "service-worker.js": "/portfolio-1/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/portfolio-1/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.f53396d2.chunk.css.map": "/portfolio-1/static/css/main.f53396d2.chunk.css.map",
     "static/js/2.4ccd430f.chunk.js.LICENSE": "/portfolio-1/static/js/2.4ccd430f.chunk.js.LICENSE",
     "static/media/Hero.css": "/portfolio-1/static/media/bg.1ed2b747.jpg",
-    "static/media/empat.png": "/portfolio-1/static/media/empat.ac5139b9.png",
-    "static/media/foodshop.png": "/portfolio-1/static/media/foodshop.da4b54dd.png",
-    "static/media/landingpage.png": "/portfolio-1/static/media/landingpage.738e8772.png",
+    "static/media/empat.png": "/portfolio-1/static/media/empat.134433e5.png",
+    "static/media/foodshop.png": "/portfolio-1/static/media/foodshop.67c1b58d.png",
+    "static/media/landingpage.png": "/portfolio-1/static/media/landingpage.12b4c5ae.png",
     "static/media/Skill.css": "/portfolio-1/static/media/latar.79d50996.png",
-    "static/media/tiga.png": "/portfolio-1/static/media/tiga.bbb79ec4.png"
+    "static/media/tiga.png": "/portfolio-1/static/media/tiga.1b81cc13.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4ae7627d.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.4ccd430f.chunk.js",
     "static/css/main.f53396d2.chunk.css",
-    "static/js/main.bc8a4458.chunk.js"
+    "static/js/main.190582cf.chunk.js"
   ]
 }
