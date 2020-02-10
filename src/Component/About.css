@@ -1,113 +1,48 @@
-.hexagon {
-    background: #28a745;
-    width: 80px;
-    height: 80px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0px;
-    border-radius: 50%;
-    animation: heartbeat 1.5s ease-in-out infinite both;
+#about {
+    position: relative;
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+    background: radial-gradient(circle, rgba(58,59,54,1) 0%, rgba(0,0,0,1) 100%);
 }
-
-.hexagon1 {
-    background: #28a745;
-    width: 80px;
-    height: 80px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0px;
-    border-radius: 50%;
-    animation: heartbeat 1.5s ease-in-out 0.4s infinite both;
-}
-
-.hexagon2 {
-    background: #28a745;
-    width: 80px;
-    height: 80px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0px;
-    border-radius: 50%;
-    animation: heartbeat 1.5s ease-in-out 1.2s infinite both;
-}
-
-.hexagon3 {
-    background: #28a745;
-    width: 80px;
-    height: 80px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0px;
-    border-radius: 50%;
-    animation: heartbeat 1.5s ease-in-out 0.9s infinite both;
-}
-
-@keyframes heartbeat {
-    from {
-      transform: scale(1);
-      transform-origin: center center;
-      animation-timing-function: ease-out;
+@keyframes slidetop {
+    0% {
+        transform: translateY(-100vh);
+        opacity: 0;
     }
     10% {
-      transform: scale(0.91);
-      animation-timing-function: ease-in;
+        transform: translateY(0);
+        opacity: 1;
     }
-    17% {
-      transform: scale(0.98);
-      animation-timing-function: ease-out;
-    }
-    33% {
-      transform: scale(0.87);
-      animation-timing-function: ease-in;
-    }
-    45% {
-      transform: scale(1);
-      animation-timing-function: ease-out;
+    100% {
+        opacity: 1;
+        position: sticky;
     }
 }
-  
-
-.ic2 {
-    width: 70px;
-    height: 70px;
-}
-
 .ic1 {
     font-size: 60px;
+    color: #E4002B;
 }
 
 @media (min-width:768px) {
-    .hexagon {
-        width: 120px;
-        height: 120px;
-    }
     .ic1 {
         font-size: 80px;
     }
-    .ic2 {
-        width: 120px;
-        height: 120px;
-    }
-    .hexagon1 {
-        width: 120px;
-        height: 120px;
-    }
-    .hexagon2 {
-        width: 120px;
-        height: 120px;
-    }
-    .hexagon3 {
-        width: 120px;
-        height: 120px;
-    }
 }
-
-.col-6 {
-    align-items: center;
+.about-d {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    width: 100%;
+}
+.about-in {
+    width: 45%;
+}
+.about-cont {
+    width: 100%;
+    height: 100vh;
     display: flex;
     flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
 }

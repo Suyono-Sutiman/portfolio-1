@@ -12,7 +12,6 @@ h1 {
 
 h2 {
   font-size: min(max(26px, 4vw),36px);
-  margin-bottom: 10%;
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 700;
 }
@@ -30,7 +29,7 @@ h4 {
 }
 
 .ijo {
-  color: #28a745;
+  color: #E4002B;
   margin: 0px;
 }
 
@@ -55,9 +54,6 @@ h4 {
 }
 
 @media (min-width:768px) {
-  h2 {
-    margin-bottom: 5%;
-  }
   .container::before  {
     display: block;
     content: " ";
@@ -73,4 +69,7 @@ h4 {
   margin-top: -71px;
   height: 71px;
   visibility: hidden;
+}
+span {
+  color: #E4002B;
 }

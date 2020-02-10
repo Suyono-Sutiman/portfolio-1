@@ -1,65 +1,65 @@
 .jumbo {
     text-align: center;
     height: 100vh;
-    background-image: url(../Image/bg.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    margin: 0px;
+    background: radial-gradient(circle, rgba(58,59,54,1) 0%, rgba(0,0,0,0.5) 100%);
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border-radius: 0px;
-    color: whitesmoke;
+    color: white;
+    position: relative;
+    top: 0;
+    z-index: 1;
 }
 
 .btn-1 {
     padding: 6px 40px;
     margin-top: 10%;
-    animation: slide-in-bottom 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) 3s both;
+    animation: slide-in-bottom 0.5s linear 3s both;
 }
 
 h1 span {
     font-family: 'Yatra One', cursive;
-    color: #28a745;
+    color: #E4002B;
 }
 
 .slide-in-left {
-	        animation: slide-in-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) 1s both;
+	        animation: slide-in-left 1s linear 1s both;
 }
 
   @keyframes slide-in-left {
     0% {
-      -webkit-transform: translateX(-1000px);
-              transform: translateX(-1000px);
+      letter-spacing: 0.5em;
       opacity: 0;
     }
+    50% {
+      opacity: 0.6;
+    }
     100% {
-      -webkit-transform: translateX(0);
-              transform: translateX(0);
       opacity: 1;
     }
 }
 
 .slide-in-right {
-	animation: slide-in-right 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) 2s both;
+	animation: slide-in-right 1s linear 2s both;
 }
 
 @keyframes slide-in-right {
     0% {
-      transform: translateX(1000px);
+      letter-spacing: 0.5em;
       opacity: 0;
     }
+    50% {
+      opacity: 0.6;
+    }
     100% {
-      transform: translateX(0);
       opacity: 1;
     }
 }
 
 @keyframes slide-in-bottom {
     0% {
-      transform: translateY(1000px);
+      transform: translateY(100vh);
       opacity: 0;
     }
     100% {
@@ -110,31 +110,3 @@ h1 span {
       opacity: 1;
     }
 }
-
-.shake-vertical {
-	animation: shake-vertical 1.6s cubic-bezier(0.455, 0.030, 0.515, 0.955) 4.5s infinite both;
-}
-
-@keyframes shake-vertical {
-    0%,
-    100% {
-      transform: translateY(0);
-    }
-    10%,
-    30%,
-    50%,
-    70% {
-      transform: translateY(-8px);
-    }
-    20%,
-    40%,
-    60% {
-      transform: translateY(8px);
-    }
-    80% {
-      transform: translateY(6.4px);
-    }
-    90% {
-      transform: translateY(-6.4px);
-    }
-  }
