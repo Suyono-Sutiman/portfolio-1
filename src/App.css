@@ -32,44 +32,53 @@ h4 {
   color: #E4002B;
   margin: 0px;
 }
-
-.container {
-  text-align: center;
-  margin-top: 30px;
-}
-
-.container::before  {
-  display: block;
-  content: " ";
-  margin-top: -240px;
-  height: 240px;
-  visibility: hidden;
-}
-
-.progress-bar {
-  text-align: left;
-  color: black;
-  font-weight: bolder;
-  padding-left: 15px;
-}
-
-@media (min-width:768px) {
-  .container::before  {
-    display: block;
-    content: " ";
-    margin-top: -71px;
-    height: 71px;
-    visibility: hidden;
-  }
-}
-
-#about1::before  {
-  display: block;
-  content: " ";
-  margin-top: -71px;
-  height: 71px;
-  visibility: hidden;
-}
-span {
+span, a {
   color: #E4002B;
+}
+.kanan {
+  position: absolute;
+  top: 5%;
+  right: 5%;
+  z-index: 5000;
+}
+.kirii {
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  z-index: 5000;
+}
+.atas {
+  position: absolute;
+  top: 5%;
+  right: 5%;
+  z-index: 5000;
+}
+.bawah {
+  position: absolute;
+  bottom: 5%;
+  right: 5%;
+  z-index: 5000;
+}
+a p {
+  color: white;
+  margin-bottom: 0px;
+  letter-spacing: 6px;
+}
+.icon {
+  width: 45px;
+  height: auto;
+}
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+.cont {
+  width: 100vw;
+  height: 100vh;
+  align-items: center;
+  display: flex;
+  background: radial-gradient(circle, rgba(58,59,54,1) 0%, rgba(0,0,0,1) 100%);
+  justify-content: center;
+  text-align: center;
+  scroll-snap-align: start;
 }

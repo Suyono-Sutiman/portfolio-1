@@ -1,11 +1,19 @@
 import React from 'react';
-import {IoMdBulb, IoIosSpeedometer, IoIosRocket} from 'react-icons/io'
+import {IoMdBulb, IoIosSpeedometer, IoIosRocket, IoIosArrowRoundUp, IoIosArrowRoundDown} from 'react-icons/io'
 import {MdDevices} from 'react-icons/md';
 import './About.css';
 
 function About () {
     return (
-        <div id='about' >
+        <div id='work' className='about' >
+            <a href='#skil' className='bawah'>
+                <p>S</p>
+                <p>k</p>
+                <p>i</p>
+                <p>l</p>
+                <p>l</p>
+                <IoIosArrowRoundDown className='icon'/></a>
+            <a href='#about' className='atas'><p>Back</p><IoIosArrowRoundUp className='icon'/></a>
             <div className='about-cont'>
             <div className='about-d'>
                 <div className='about-in'>

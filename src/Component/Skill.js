@@ -1,9 +1,11 @@
 import React from 'react';
+import {IoIosArrowRoundUp} from 'react-icons/io';
 import './Skill.css';
 
 function Skill () {
     return (
         <div className='skil' id='skil'>
+            <a href='#work'className='atas'><p>Back</p><IoIosArrowRoundUp className='icon'/></a>
             <div className='kiri'>
             <div className="progress">
                 <div className="progress-value ani-1">
